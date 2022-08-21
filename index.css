@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  position: relative;
+
+}
+.box1{
+  background-color: #e0ebe8;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 100px;
+  position: relative;
+  margin-bottom: 100px;
+}
+.land{
+  background-color: #e0ebe8;
+  height: 300px;
+  padding-top: 100px;
+}
+.alok{
+  color: #45b29a;
+  width: 70%;
+  margin: 0 auto;
+  font-family: 'Sacramento' ,cursive;
+  font-size: 100px;
+}
+.para1{
+  color: #45b29a;
+  font-size: 30px;
+  margin-top: 0;
+  font-family: 'Lato', sans-serif;
+}
+.top-cloud{
+  position: relative;
+  top: 20px;
+  left: 350px;
+
+}
+.bottom-cloud{
+  position: relative;
+  top: 200px;
+  right: 300px;
+}
+.box2{
+text-align: center;
+
+}
+.img-me1{
+  height: 150px;
+  margin-bottom: 25px;
+}
+.para2{
+  color: #45b29a;
+  font-size: 30px;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 25px;
+  width: 60%;
+}
+.para3{
+   color: #545454;
+   display: block;
+   width: 500px;
+   margin: 0 auto 60px auto;
+   font-size: 22px;
+   font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+hr{
+  margin: 30px auto 60px auto;
+  width: 7%;
+  border-style:none;
+  border-top-style: dotted;
+  border-top-color: grey;
+  height: 0;
+  border-width: 8px;
+}
+.box3{
+  margin-top: 25px;
+  text-align: center;
+  position: relative;
+}
+h1{
+    color: #1e836c;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    margin: 0 auto 60px 0;
+}
+.img2{
+  height: 250px;
+  margin: 0 auto;
+
+}
+.para4{
+  color: #45b29a;
+  font-size: 25px;
+  font-family: 'Lato', sans-serif;
+  margin: 25px auto 20px auto;
+  width: 100%;
+}
+.para5{
+  color: #545454;
+  display: block;
+  width: 500px;
+  margin: 0 auto 50px auto;
+  font-size: 22px;
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+
+
+.box4{
+  background-color: #e0ebe8;
+  text-align: center;
+  padding-top: 20px;
+  position: relative;
+  margin: 0 auto;
+}
+h2{
+  color: #1e836c;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+.para6{
+  color: #545454;
+  display: block;
+  font-size: 22px;
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
